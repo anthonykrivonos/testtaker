@@ -1,0 +1,5 @@
+pyaudio
+python-sounddevice
+openai-whisper
+openai
+python-dotenv
